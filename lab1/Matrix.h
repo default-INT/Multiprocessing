@@ -19,7 +19,6 @@ template <typename T, class = std::enable_if
         std::is_same<T, float>::value
         >>
 class Matrix {
-
 private:
     T** matrix;
     int row{};

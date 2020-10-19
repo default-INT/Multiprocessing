@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Other/GSTU/semester_7/Multiprocessing/example/GaussMT.cpp
+random
+-
+iostream
+-
+iomanip
+-
+chrono
+-
+Windows.h
+-
+processthreadsapi.h
+-
+
+E:/Other/GSTU/semester_7/Multiprocessing/example/GaussST.cpp
+random
+-
+iostream
+-
+iomanip
+-
+chrono
+-
+Windows.h
+-
+

@@ -17,10 +17,20 @@ E:/Other/GSTU/semester_7/Multiprocessing/lab1/Matrix.h
 E:/Other/GSTU/semester_7/Multiprocessing/lab1/main.cpp
 iostream
 -
-c++/4.8.3/iomanip
+iomanip
+-
+fstream
+-
+processthreadsapi.h
 -
 Matrix.h
 E:/Other/GSTU/semester_7/Multiprocessing/lab1/Matrix.h
+chrono
+-
+Windows.h
+-
+zconf.h
+-
 SlauLDLtCalculator.h
 E:/Other/GSTU/semester_7/Multiprocessing/lab1/SlauLDLtCalculator.h
 
