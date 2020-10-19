@@ -1,3 +1,0 @@
-E:/Other/GSTU/semester_7/Multiprocessing/example/cmake-build-debug/CMakeFiles/example.dir
-E:/Other/GSTU/semester_7/Multiprocessing/example/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Other/GSTU/semester_7/Multiprocessing/example/cmake-build-debug/CMakeFiles/rebuild_cache.dir

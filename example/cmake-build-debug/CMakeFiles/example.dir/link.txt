@@ -1,3 +1,0 @@
-"C:\Users\evgen\AppData\Local\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\example.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\example.dir/objects.a @CMakeFiles\example.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\example.dir/objects.a -Wl,--no-whole-archive  -o example.exe -Wl,--out-implib,libexample.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\example.dir\linklibs.rsp
